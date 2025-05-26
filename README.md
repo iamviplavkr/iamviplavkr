@@ -33,11 +33,4 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Viplav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=viplavkumar&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viplavkumar&layout=compact&theme=radical)](https://github.com/viplavkumar)
-
----
-
 > “The best way to learn is to build.” – Me, probably 😄

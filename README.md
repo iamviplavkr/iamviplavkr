@@ -1,9 +1,43 @@
-# Hi there 👋, I'm Viplav Kumar
+# Hi there 👋 I'm Viplav Kumar
 
-- 🎓 B.Tech CSE @ Manipal University Jaipur (2027)
-- 👨‍💻 Android & Fullstack Developer
-- 🌱 Learning Algorithms, React, and DevOps
-- 💬 Ask me about Java, DSA, or Git
-- 📫 Reach me: [LinkedIn]((https://www.linkedin.com/in/viplav-kumar/)) | [Email](mailto:viplav1998@gmail.com)
+🎓 Second-year B.Tech CSE student at **Manipal University Jaipur** (Batch of 2027)  
+💻 Passionate about **Android Development**, **Fullstack Projects**, and **Problem Solving**  
+🛠 Currently working on:  
+  🚗 A Parking Slot Booking Android App  
+  🧪 Accessibility Analyzer using **Next.js**, **Node.js**, **MongoDB**, and **Lighthouse**
 
-![Viplav's GitHub stats](https://github-readme-stats.vercel.app/api?username=viplavkumar&show_icons=true&theme=radical)
+---
+
+## 🔧 Tech Stack
+
+- **Languages:** Java, C, Python, SQL  
+- **Web:** React, Next.js, Node.js, Express, HTML, CSS  
+- **Mobile:** Android with Java  
+- **Database:** MongoDB, MySQL  
+- **Tools:** Git, GitHub, VS Code, Postman, Figma
+
+---
+
+## 📚 Currently Learning
+
+- Advanced **Data Structures & Algorithms**
+- **System Design** and REST APIs
+- **DevOps** Basics (CI/CD, Docker, etc.)
+
+---
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/viplav-kumar/)  
+📬 Email: viplav1998@gmail.com
+
+---
+
+## 📊 GitHub Stats
+
+![Viplav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=viplavkumar&show_icons=true&theme=radical)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viplavkumar&layout=compact&theme=radical)](https://github.com/viplavkumar)
+
+---
+
+> “The best way to learn is to build.” – Me, probably 😄

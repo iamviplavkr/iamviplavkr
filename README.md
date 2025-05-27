@@ -32,5 +32,9 @@
 📬 Email: viplav1998@gmail.com
 
 ---
+## 📈 GitHub Stats
+![Viplav's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamviplavkr&show_icons=true&theme=default)
 
-> “The best way to learn is to build.” – Me, probably 😄
+---
+
+> “Code isn’t just instructions. It’s your thoughts made real — and I love thinking out loud.” ✨

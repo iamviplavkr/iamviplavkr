@@ -10,19 +10,20 @@
 
 ## 🔧 Tech Stack
 
-- **Languages:** Java, C, Python, SQL  
-- **Web:** React, Next.js, Node.js, Express, HTML, CSS  
+- **Languages:** C, C++, Java, C#, Python, SQL
+- **Web:** HTML, CSS, Figma  
 - **Mobile:** Android with Java  
 - **Database:** MongoDB, MySQL  
-- **Tools:** Git, GitHub, VS Code, Postman, Figma
+- **Tools:** Git, GitHub, Visual Studio, VS Code
 
 ---
 
 ## 📚 Currently Learning
 
 - Advanced **Data Structures & Algorithms**
-- **System Design** and REST APIs
 - **DevOps** Basics (CI/CD, Docker, etc.)
+- **Backend Development**: REST APIs, Web Architecture
+- Learning **.NET 8** to build APIs using **C#** and **ASP.NET Core**
 
 ---
 

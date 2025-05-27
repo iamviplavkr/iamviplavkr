@@ -33,7 +33,7 @@
 
 ---
 ## 📈 GitHub Stats
-![Viplav's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamviplavkr&show_icons=true&theme=default)
+![Viplav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamviplavkr&show_icons=true&theme=default)
 
 ---
 

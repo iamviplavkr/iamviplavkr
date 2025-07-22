@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Viplav Kumar
 
-🎓 Second-year B.Tech CSE student at **Manipal University Jaipur** (Batch of 2027)  
+🎓 Third-year B.Tech CSE student at **Manipal University Jaipur** (Batch of 2027)  
 💻 Passionate about **Android Development**, **Fullstack Projects**, and **Problem Solving**  
 🛠 Currently working on:  
   🚗 A Parking Slot Booking Android App  

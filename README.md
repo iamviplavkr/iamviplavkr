@@ -1,107 +1,145 @@
-# 👋 Hi, I’m Viplav Kumar
+# Hi, I'm Viplav Kumar 👋
 
-🎓 **B.Tech CSE (2023–2027)** | Manipal University Jaipur  
-💻 **Software & App Developer** | Backend • Android • Databases  
+### Software Engineer | Backend Developer | Machine Learning Enthusiast
+
+I am a Computer Science Engineering student at Manipal University Jaipur with a strong interest in backend systems, scalable software development, and applied machine learning. I enjoy building real-world applications that combine software engineering principles with intelligent systems.
 
 ---
 
 ## 🚀 About Me
 
-I’m a Computer Science undergraduate passionate about building **real-world applications** using clean architecture and scalable backend systems. I enjoy working across the stack — from **Android apps** to **.NET APIs** and **SQL databases** — and I’m constantly improving my problem-solving skills through **DSA and algorithm design**.
-
-I believe in learning by building 🚧 and turning ideas into working products.
+- 🎓 B.Tech in Computer Science Engineering (2023 – 2027)
+- 🏫 Manipal University Jaipur
+- 📍 Kolkata, West Bengal, India
+- 💻 Passionate about Backend Development, System Design, AI, and DevOps
+- 🌱 Currently exploring Kotlin, .NET, Cloud Technologies, and AI-powered applications
+- 🎯 Goal: To build scalable systems and contribute to engineering teams solving real-world problems
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
-- C  
-- Java  
-- Python  
-- C#  
-- SQL  
+### Languages
+- C
+- C++
+- Java
+- Python
+- C#
+- Kotlin
 
-### 📱 Mobile Development
-- Android (Java & Kotlin)  
-- Firebase Authentication & Firestore  
+### Backend Development
+- ASP.NET Core
+- ADO.NET
+- FastAPI
+- REST APIs
 
-### 🌐 Backend & APIs
-- ASP.NET Core (.NET 8)  
-- REST APIs  
-- ADO.NET  
-- Stored Procedures  
+### Databases
+- SQL Server
+- Firebase
 
-### 🗄️ Databases
-- SQL Server  
-- MySQL  
-- MongoDB  
+### Developer Tools
+- Git
+- GitHub Actions
+- Swagger / OpenAPI
+- VS Code
+- Android Studio
 
-### 🧠 Core CS Skills
-- Data Structures & Algorithms  
-- Algorithm Design & Analysis  
-- Object-Oriented Programming (OOP)  
-- Database Design  
-- Software Engineering  
-
-### 🧰 Tools & Platforms
-- Visual Studio  
-- Visual Studio Code  
-- Android Studio  
-- Git & GitHub  
-- Postman  
-- Figma  
+### Core Concepts
+- Data Structures & Algorithms
+- DBMS
+- Operating Systems
+- Computer Networks
+- System Design
 
 ---
 
-## 📂 Featured Projects
+## 📌 Featured Projects
 
-### 🚗 Parking Slot Booking Application
-**Tech:** Android (Java), Firebase, SQL  
-- Designed and implemented a multi-screen flow:  
-  `Register → Login → Verification → Booking → Payment → Confirmation`
-- Converted Figma UI designs into a functional Android application  
-- Implemented authentication, booking logic, and UI navigation  
+### 🚗 Slotify – Smart Parking Management System
+A full-stack parking management platform with real-time slot booking and secure authentication.
 
----
+**Features**
+- Real-time parking slot selection
+- Duration-based pricing
+- QR-based booking confirmation
+- JWT Authentication
+- Role-Based Access Control
 
-### 🔐 Accessibility Analyzer (Full Stack)
-**Tech:** React / Next.js, Node.js, Express, MongoDB  
-- Built a full-stack tool to analyze website accessibility  
-- Integrated Lighthouse & axe-core for automated audits  
-- Generated accessibility reports with actionable insights  
+**Tech Stack**
+Kotlin • ASP.NET Core • SQL Server
 
 ---
 
-### 📊 Heart Disease Prediction System
-**Tech:** Python, Machine Learning  
-- Built a supervised ML model for disease prediction  
-- Achieved high classification accuracy using feature engineering  
-- Applied data preprocessing, model evaluation, and visualization  
+### 🤖 ERP Anomaly Detector
+An AI-powered fraud detection system for ERP transactions.
+
+**Highlights**
+- Isolation Forest + Random Forest models
+- 96% Precision
+- PR-AUC: 0.88
+- SHAP Explainability
+- Real-time and batch fraud analysis
+
+**Tech Stack**
+Python • FastAPI • Streamlit • Scikit-Learn
 
 ---
 
-## 📈 Currently Learning
-- Advanced Android Development (Kotlin)  
-- .NET Web APIs using Stored Procedures  
-- System Design Fundamentals  
-- Interview-Oriented DSA  
+### ⚡ Test Impact Analyzer
+A selective test execution engine that runs only the tests affected by code changes.
+
+**Features**
+- Git diff based change detection
+- Test dependency mapping
+- Automated CI/CD integration
+- Reduced redundant test execution
+
+**Tech Stack**
+Python • GitHub Actions • Pytest
 
 ---
 
-## 🤝 Experience & Activities
-- **Logistics Head**, MUJ ACM Sibged  
-- Active participant in technical events and hackathons  
-- Team-based Agile sprint execution  
+## 💼 Experience
+
+### Software Developer Intern
+**Shriram Insight Share Brokers Ltd.**  
+*May 2025 – July 2025*
+
+- Developed backend APIs using C# and .NET
+- Designed optimized SQL Server stored procedures
+- Improved database query performance
+- Implemented validation, debugging, and error handling
+- Documented APIs using Swagger/OpenAPI
 
 ---
 
-## 📫 Connect With Me
-- 💼 **LinkedIn:** *(https://www.linkedin.com/in/viplav-kumar/)*  
-- 📧 **Email:** *(viplav1998@gmail.com)*  
-- 🌐 **GitHub:** https://github.com/iamviplavkr  
+## 🏆 Leadership & Activities
+
+- Logistics Head, MUJ ACM SIGBED
+- Led a 30+ member team during Autobots 3.0
+- Designed autonomous bot tracks using AutoCAD
+- Contributed to a 20% increase in event registrations
 
 ---
 
-## ⭐ Quote I Live By
-> *“Build things. Break things. Learn fast.”*
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamviplavkr&show_icons=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamviplavkr" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/viplav-kumar
+- GitHub: https://github.com/iamviplavkr
+- Email: viplav1998@gmail.com
+
+---
+
+### "Building scalable systems, solving real-world problems, and continuously learning."

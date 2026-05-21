@@ -122,14 +122,15 @@ Python • GitHub Actions • Pytest
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamviplavkr&show_icons=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamviplavkr&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamviplavkr&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamviplavkr" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=iamviplavkr&theme=tokyonight&hide_border=true" />
 </p>
 
 ---

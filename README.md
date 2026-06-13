@@ -1,133 +1,87 @@
-# Hi, I'm Viplav Kumar 👋
+<h1 align="center">Hi 👋, I'm Viplav Kumar</h1>
+<h3 align="center">Computer Science Engineering Student | Backend & ML Enthusiast</h3>
 
-### Software Engineer | Backend Developer | Machine Learning Enthusiast
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamviplavkr&label=Profile%20views&color=0e75b6&style=flat" alt="iamviplavkr" />
+</p>
 
-I am a Computer Science Engineering student at Manipal University Jaipur with a strong interest in backend systems, scalable software development, and applied machine learning. I enjoy building real-world applications that combine software engineering principles with intelligent systems.
-
----
-
-## 🚀 About Me
-
-- 🎓 B.Tech in Computer Science Engineering (2023 – 2027)
-- 🏫 Manipal University Jaipur
-- 📍 Kolkata, West Bengal, India
-- 💻 Passionate about Backend Development, System Design, AI, and DevOps
-- 🌱 Currently exploring Kotlin, .NET, Cloud Technologies, and AI-powered applications
-- 🎯 Goal: To build scalable systems and contribute to engineering teams solving real-world problems
+<p align="center">
+  <a href="https://github.com/iamviplavkr"><img src="https://img.shields.io/github/followers/iamviplavkr?label=Follow&style=social" /></a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
-- C
-- C++
-- Java
-- Python
-- C#
-- Kotlin
-
-### Backend Development
-- ASP.NET Core
-- ADO.NET
-- FastAPI
-- REST APIs
-
-### Databases
-- SQL Server
-- Firebase
-
-### Developer Tools
-- Git
-- GitHub Actions
-- Swagger / OpenAPI
-- VS Code
-- Android Studio
-
-### Core Concepts
-- Data Structures & Algorithms
-- DBMS
-- Operating Systems
-- Computer Networks
-- System Design
+### 🚀 About Me
+- 🎓 Final-year B.Tech CSE student at Manipal University Jaipur  
+- 💼 Software Engineering Intern @ Acceleron Solutions | Ex-Intern @ Shriram Insight Share Brokers Ltd.  
+- 🛡️ Head of Logistics @ ACM SIGBED MUJ  
+- 🤖 Exploring **Agentic AI** — building autonomous, multi-agent systems with LangGraph & RAG pipelines  
+- 🌱 Currently sharpening DSA & OS fundamentals for placements  
+- 📫 Reach me: **viplav1998@gmail.com**
 
 ---
 
-## 📌 Featured Projects
+### 🛠️ Tech Stack
 
-### 🚗 Slotify – Smart Parking Management System
-A full-stack parking management platform with real-time slot booking and secure authentication.
-
-**Features**
-- Real-time parking slot selection
-- Duration-based pricing
-- QR-based booking confirmation
-- JWT Authentication
-- Role-Based Access Control
-
-**Tech Stack**
-Kotlin • ASP.NET Core • SQL Server
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,kotlin,csharp,dotnet,fastapi,react,nodejs,mysql,git,github,firebase,androidstudio" />
+</p>
 
 ---
 
-### 🤖 ERP Anomaly Detector
-An AI-powered fraud detection system for ERP transactions.
+### 📌 Featured Projects
 
-**Highlights**
-- Isolation Forest + Random Forest models
-- 96% Precision
-- PR-AUC: 0.88
-- SHAP Explainability
-- Real-time and batch fraud analysis
+<table>
+<tr>
+<td width="50%">
 
-**Tech Stack**
-Python • FastAPI • Streamlit • Scikit-Learn
+**🅿️ Slotify**  
+Smart parking app built with Kotlin, Jetpack Compose & Firebase, featuring real-time slot booking and Firestore transactions.
 
----
+</td>
+<td width="50%">
 
-### ⚡ Test Impact Analyzer
-A selective test execution engine that runs only the tests affected by code changes.
+**🔍 ERP Anomaly Detector**  
+ML pipeline (Random Forest + Isolation Forest) detecting financial fraud — 96% precision, PR-AUC 0.88, built with FastAPI & Streamlit.
 
-**Features**
-- Git diff based change detection
-- Test dependency mapping
-- Automated CI/CD integration
-- Reduced redundant test execution
+</td>
+</tr>
+<tr>
+<td width="50%" colspan="2">
 
-**Tech Stack**
-Python • GitHub Actions • Pytest
+**⚙️ Test Impact Analyzer**  
+CI/CD optimization tool using GitHub Actions & Pytest to run only impacted tests, speeding up pipelines.
 
----
-
-## 💼 Experience
-
-### Software Developer Intern
-**Shriram Insight Share Brokers Ltd.**  
-*May 2025 – July 2025*
-
-- Developed backend APIs using C# and .NET
-- Designed optimized SQL Server stored procedures
-- Improved database query performance
-- Implemented validation, debugging, and error handling
-- Documented APIs using Swagger/OpenAPI
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏆 Leadership & Activities
+### 🤖 Agentic AI Journey
 
-- Logistics Head, MUJ ACM SIGBED
-- Led a 30+ member team during Autobots 3.0
-- Designed autonomous bot tracks using AutoCAD
-- Contributed to a 20% increase in event registrations
+I'm diving into the world of **autonomous AI agents** — systems that can reason, plan, retrieve context, and act with minimal human intervention. Currently exploring:
 
----
-
-## 🤝 Connect With Me
-
-- LinkedIn: https://linkedin.com/in/viplav-kumar
-- GitHub: https://github.com/iamviplavkr
-- Email: viplav1998@gmail.com
+- 🔗 **LangGraph** for orchestrating multi-agent workflows  
+- 📚 **RAG (Retrieval-Augmented Generation)** pipelines for grounded, context-aware responses  
+- 🧩 Designing **human-in-the-loop** architectures for high-stakes decision systems  
+- ⚡ Applying agentic patterns to real-world domains like finance & automation
 
 ---
 
-### "Building scalable systems, solving real-world problems, and continuously learning."
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iamviplavkr&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamviplavkr&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamviplavkr&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Code, learn, iterate — repeat."</i>
+</p>

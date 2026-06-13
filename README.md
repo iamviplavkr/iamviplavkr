@@ -14,7 +14,7 @@
 ### 🚀 About Me
 - 🎓 Final-year B.Tech CSE student at Manipal University Jaipur  
 - 💼 Software Engineering Intern @ Acceleron Solutions | Ex-Intern @ Shriram Insight Share Brokers Ltd.  
-- 🛡️ Head of Logistics @ ACM SIGBED MUJ  
+- 🛡️ Head of Operations @ ACM SIGBED MUJ  
 - 🤖 Exploring **Agentic AI** — building autonomous, multi-agent systems with LangGraph & RAG pipelines  
 - 🌱 Currently sharpening DSA & OS fundamentals for placements  
 - 📫 Reach me: **viplav1998@gmail.com**

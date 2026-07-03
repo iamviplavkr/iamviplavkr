@@ -203,7 +203,6 @@ Leading operational execution for the university's ACM Special Interest Group on
 </div>
 <div align="center">
 
-> If either card shows a broken icon, the shared instance is rate-limited/down — reload after a minute. For a permanently stable card, self-host via the [github-readme-stats deploy guide](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own).
 
 <br/>
 
@@ -211,31 +210,10 @@ Leading operational execution for the university's ACM Special Interest Group on
 
 </div>
 
-<br/>
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=iamviplavkr&theme=onedark&no-frame=true&no-bg=false&column=7&margin-w=15&margin-h=15&row=2"/>
-</div>
-
-> If this doesn't render, the shared trophy service is rate-limited — reload the page after a minute, or self-host via the [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy#-self-hosting) instructions for a permanently stable link.
-
-<br/>
-
-## 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamviplavkr&custom_title=Contribution%20Activity&bg_color=0D0221&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true"/>
-</div>
-
-> If this doesn't render, the shared instance is temporarily rate-limited/down — reload after a minute, or self-host via the [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph#deploy-on-your-own) instructions.
 
 <br/>
 
 ## 🐍 Contribution Snake
-
-> ⚙️ Requires one-time setup — see `snake.yml` workflow. Once the Action runs, this image will populate automatically.
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/iamviplavkr/iamviplavkr/output/github-contribution-grid-snake-dark.svg"/>

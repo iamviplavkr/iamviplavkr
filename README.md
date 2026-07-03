@@ -197,8 +197,13 @@ Leading operational execution for the university's ACM Special Interest Group on
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=iamviplavkr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamviplavkr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=C4B5FD"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=iamviplavkr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&cache_seconds=1800"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamviplavkr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=C4B5FD&cache_seconds=1800"/>
+
+</div>
+<div align="center">
+
+> If either card shows a broken icon, the shared instance is rate-limited/down — reload after a minute. For a permanently stable card, self-host via the [github-readme-stats deploy guide](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own).
 
 <br/>
 
@@ -266,7 +271,7 @@ open_to:
 
 <p align="center">
 <a href="mailto:viplav1998@gmail.com"><img src="https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/viplav-kumar/"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/iamviplavkr"><img src="https://img.shields.io/badge/GitHub-2E1065?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 

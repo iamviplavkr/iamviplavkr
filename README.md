@@ -210,10 +210,18 @@ Leading operational execution for the university's ACM Special Interest Group on
 
 </div>
 
+<br/>
+
+## 📈 Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamviplavkr&custom_title=Contribution%20Activity&bg_color=0D0221&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true"/>
+</div>
 
 <br/>
 
 ## 🐍 Contribution Snake
+
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/iamviplavkr/iamviplavkr/output/github-contribution-grid-snake-dark.svg"/>
@@ -249,7 +257,7 @@ open_to:
 
 <p align="center">
 <a href="mailto:viplav1998@gmail.com"><img src="https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/viplav-kumar/"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/iamviplavkr"><img src="https://img.shields.io/badge/GitHub-2E1065?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 

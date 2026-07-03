@@ -46,22 +46,6 @@ I'm a final-year Computer Science student who enjoys building software that is f
 
 <br/>
 
-## 🛠️ Tech Stack
-
-**Languages**
-<p> <img src="https://skillicons.dev/icons?i=cpp,java,python,kotlin,csharp" /> </p>
-
-**Frontend**
-<p> <img src="https://skillicons.dev/icons?i=react,html,css,js" /> </p>
-
-**Backend & Databases**
-<p> <img src="https://skillicons.dev/icons?i=nodejs,dotnet,fastapi,mysql,firebase" /> </p>
-
-**Cloud, DevOps & Tooling**
-<p> <img src="https://skillicons.dev/icons?i=git,github,githubactions,androidstudio,vscode,postman" /> </p>
-
-<br/>
-
 ## 🤖 AI / ML Expertise
 
 | Domain | Proficiency | Details |
@@ -182,13 +166,31 @@ Leading operational execution for the university's ACM Special Interest Group on
 
 <br/>
 
+## 📜 Certifications
+
+**AWS**
+<p><img src="https://img.shields.io/badge/AWS-Certification-6D28D9?style=flat-square&logo=amazonaws&logoColor=white"/></p>
+
+**Oracle**
+<p><img src="https://img.shields.io/badge/Oracle-Certification-4C1D95?style=flat-square&logo=oracle&logoColor=white"/></p>
+
+**NPTEL**
+<p><img src="https://img.shields.io/badge/NPTEL-Certification-8B5CF6?style=flat-square&logo=googlescholar&logoColor=white"/></p>
+
+**Cisco**
+<p><img src="https://img.shields.io/badge/Cisco-Certification-2E1065?style=flat-square&logo=cisco&logoColor=white"/></p>
+
+> *Add your specific certification titles and verification links here.*
+
+<br/>
+
 ## 💻 Coding Profiles
 
 <p align="center">
-<a href="https://leetcode.com/u/RTuFNz7uVJ/"><img src="https://img.shields.io/badge/LeetCode-1A1A2E?style=for-the-badge&logo=leetcode&logoColor=A78BFA"/></a>
-<a href="https://www.geeksforgeeks.org/profile/viplavm1t3?tab=activity"><img src="https://img.shields.io/badge/GeeksforGeeks-1A1A2E?style=for-the-badge&logo=geeksforgeeks&logoColor=A78BFA"/></a>
-<a href="https://www.hackerrank.com/profile/viplav1998"><img src="https://img.shields.io/badge/HackerRank-1A1A2E?style=for-the-badge&logo=hackerrank&logoColor=A78BFA"/></a>
-<a href="https://www.codechef.com/users/viplav_kr"><img src="https://img.shields.io/badge/CodeChef-1A1A2E?style=for-the-badge&logo=codechef&logoColor=A78BFA"/></a>
+<a href="https://leetcode.com/your-handle"><img src="https://img.shields.io/badge/LeetCode-1A1A2E?style=for-the-badge&logo=leetcode&logoColor=A78BFA"/></a>
+<a href="https://geeksforgeeks.org/user/your-handle"><img src="https://img.shields.io/badge/GeeksforGeeks-1A1A2E?style=for-the-badge&logo=geeksforgeeks&logoColor=A78BFA"/></a>
+<a href="https://hackerrank.com/your-handle"><img src="https://img.shields.io/badge/HackerRank-1A1A2E?style=for-the-badge&logo=hackerrank&logoColor=A78BFA"/></a>
+<a href="https://codechef.com/users/your-handle"><img src="https://img.shields.io/badge/CodeChef-1A1A2E?style=for-the-badge&logo=codechef&logoColor=A78BFA"/></a>
 </p>
 
 <br/>
@@ -211,20 +213,26 @@ Leading operational execution for the university's ACM Special Interest Group on
 ## 🏅 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=iamviplavkr&theme=algolia&no-frame=true&column=7&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=iamviplavkr&theme=onedark&no-frame=true&no-bg=false&column=7&margin-w=15&margin-h=15&row=2"/>
 </div>
+
+> If this doesn't render, the shared trophy service is rate-limited — reload the page after a minute, or self-host via the [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy#-self-hosting) instructions for a permanently stable link.
 
 <br/>
 
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamviplavkr&theme=react-dark&bg_color=0D0221&color=A78BFA&line=8B5CF6&point=C4B5FD"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamviplavkr&custom_title=Contribution%20Activity&bg_color=0D0221&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true"/>
 </div>
+
+> If this doesn't render, the shared instance is temporarily rate-limited/down — reload after a minute, or self-host via the [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph#deploy-on-your-own) instructions.
 
 <br/>
 
 ## 🐍 Contribution Snake
+
+> ⚙️ Requires one-time setup — see `snake.yml` workflow. Once the Action runs, this image will populate automatically.
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/iamviplavkr/iamviplavkr/output/github-contribution-grid-snake-dark.svg"/>
@@ -260,8 +268,9 @@ open_to:
 
 <p align="center">
 <a href="mailto:viplav1998@gmail.com"><img src="https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/viplav-kumar/"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/iamviplavkr"><img src="https://img.shields.io/badge/GitHub-2E1065?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 <br/>

@@ -206,7 +206,7 @@ Leading operational execution for the university's ACM Special Interest Group on
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamviplavkr&theme=tokyonight&hide_border=true&background=0D0221&stroke=8B5CF6&ring=A78BFA&fire=A78BFA&currStreakLabel=C4B5FD"/>
+<img src="https://github-readme-streak-stats.vercel.app/?user=iamviplavkr&theme=tokyonight&hide_border=true&background=0D0221&stroke=8B5CF6&ring=A78BFA&fire=A78BFA&currStreakLabel=C4B5FD"/>
 
 </div>
 

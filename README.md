@@ -215,7 +215,7 @@ Leading operational execution for the university's ACM Special Interest Group on
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamviplavkr&custom_title=Contribution%20Activity&bg_color=0D0221&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph-ecru-mu.vercel.app/graph?username=iamviplavkr&custom_title=Contribution%20Activity&bg_color=0D0221&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true"/>
 </div>
 
 <br/>

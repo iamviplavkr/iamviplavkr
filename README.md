@@ -197,8 +197,8 @@ Leading operational execution for the university's ACM Special Interest Group on
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=iamviplavkr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&cache_seconds=1800"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamviplavkr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=C4B5FD&cache_seconds=1800"/>
+<img height="165" src="https://github-readme-stats-chi-five-89.vercel.app/api?username=iamviplavkr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD"/>
+<img height="165" src="https://github-readme-stats-chi-five-89.vercel.app/api/top-langs/?username=iamviplavkr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=C4B5FD"/>
 
 </div>
 <div align="center">
@@ -206,7 +206,7 @@ Leading operational execution for the university's ACM Special Interest Group on
 
 <br/>
 
-<img src="https://github-readme-streak-stats.vercel.app/?user=iamviplavkr&theme=tokyonight&hide_border=true&background=0D0221&stroke=8B5CF6&ring=A78BFA&fire=A78BFA&currStreakLabel=C4B5FD"/>
+<img src="https://github-readme-streak-stats-liard-eight.vercel.app/?user=iamviplavkr&theme=tokyonight&hide_border=true&background=0D0221&stroke=8B5CF6&ring=A78BFA&fire=A78BFA&currStreakLabel=C4B5FD"/>
 
 </div>
 

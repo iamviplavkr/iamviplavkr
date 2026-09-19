@@ -197,8 +197,8 @@ Leading operational execution for the university's ACM Special Interest Group on
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-chi-five-89.vercel.app/api?username=iamviplavkr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD"/>
-<img height="165" src="https://github-readme-stats-chi-five-89.vercel.app/api/top-langs/?username=iamviplavkr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=C4B5FD"/>
+<img height="165" src="https://github-readme-stats-chi-five-89.vercel.app/api?username=iamviplavkr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&cache_seconds=3600"/>
+<img height="165" src="https://github-readme-stats-chi-five-89.vercel.app/api/top-langs/?username=iamviplavkr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=C4B5FD&cache_seconds=3600"/>
 
 </div>
 <div align="center">
@@ -206,7 +206,7 @@ Leading operational execution for the university's ACM Special Interest Group on
 
 <br/>
 
-<img src="https://github-readme-streak-stats-v2-orpin.vercel.app/?user=iamviplavkr&theme=tokyonight&hide_border=true&background=0D0221&stroke=8B5CF6&ring=A78BFA&fire=A78BFA&currStreakLabel=C4B5FD"/>
+<img src="https://github-readme-streak-stats-v2-orpin.vercel.app/?user=iamviplavkr&theme=tokyonight&hide_border=true&background=0D0221&stroke=8B5CF6&ring=A78BFA&fire=A78BFA&currStreakLabel=C4B5FD&cache_seconds=3600"/>
 
 </div>
 
@@ -215,7 +215,7 @@ Leading operational execution for the university's ACM Special Interest Group on
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph-ecru-mu.vercel.app/graph?username=iamviplavkr&custom_title=Contribution%20Activity&bg_color=0D0221&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph-ecru-mu.vercel.app/graph?username=iamviplavkr&custom_title=Contribution%20Activity&bg_color=0D0221&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true&cache_seconds=3600"/>
 </div>
 
 <br/>
